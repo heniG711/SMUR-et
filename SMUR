@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sample Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f7f7f7;
+      margin: 40px;
+      text-align: center;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    p {
+      font-size: 18px;
+      color: #555;
+    }
+    .box {
+      margin: 20px auto;
+      padding: 20px;
+      max-width: 400px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      background: white;
+    }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h1>Hello, Heni!</h1>
+    <p>This is your sample HTML page running locally in your browser.</p>
+    <p>🎨 You can edit this file and refresh to see changes.</p>
+  </div>
+</body>
+</html>
